@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @simoneswapnil
+In this project I applied Exploratory Data Analysis, Data Visualisation techniques and various analytical operations like data cleaning and data manipulation using different python libraries like NumPy, Pandas and Matplotlib to find correlations between different variables from the movies.csv dataset that I downloaded from Kagggle
 
 
-<!---
-simoneswapnil/simoneswapnil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
